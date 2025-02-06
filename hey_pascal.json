@@ -3,7 +3,7 @@
     "wake_word": "Hey Pascal",
     "author": "Jon",
     "website": "https://homeassistant.local",
-    "model": "./hey_pas_cal.tflite",
+    "model": "github://jargoggles/microwakeword/hey_pas_cal.tflite",
     "trained_languages": [
         "en"
     ],
